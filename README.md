@@ -44,6 +44,7 @@ find your token in the dev portal under bot --> reset token (Dont share this wit
 Ollama API:
 change the api url, 
 ![image](https://github.com/SudoSuMaster/discord-uncensored-ai-bot/assets/75373825/af915dc7-41b1-4e6d-8270-549a8f220f3e)
+
 to find the api url go to ollama webui --> setting --> general 
 ![image](https://github.com/SudoSuMaster/discord-uncensored-ai-bot/assets/75373825/fbc41311-755a-4999-90ec-1d4c24200b78)
 
