@@ -1,3 +1,8 @@
+!!!!!!!!Disclaimer!!!!!!!
+
+This Discord bot, along with its AI functionalities, is provided solely as a tool for entertainment and educational purposes. It's important to understand that while the bot may provide assistance or responses, neither the creator nor the AI can be held responsible for any actions taken based on its output. Just like any tool, it should be used with caution and awareness. Users are encouraged to exercise discretion and critical thinking when interacting with the bot and to be mindful of their own responsibility for any outcomes resulting from its use.
+
+
 Ollama setup:
 Run ollama in docker with this docker compose file 
 https://github.com/SudoSuMaster/docker-compose-files/blob/main/ollama-ai/docker-compose.yml
